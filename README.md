@@ -23,20 +23,25 @@ Any Freelance Work ? Do Reach
 - **Email:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com
 - **Phone:** (+1)-498-773-5914 , (+91)-783-752-7788
 - **LinkedIn:** [marwaha-rohit](https://www.linkedin.com/in/marwaha-rohit)
+- **Github:** [rhmarwaha](https://github.com/rhmarwaha)
 - **GitLab:** [rhmarwaha](https://gitlab.com/rhmarwaha)
 
 ---
 
-## Summary of Skills and Qualifications
+## Some Open Source Projects
 
-- **Programming Languages:** Java 8, Python (beginner), Swift, C, C++, JavaScript, HTML/CSS
-- **Frameworks/Libraries:** Angular JS, Angular 12, Spring MVC, Android, Junit
-- **Applications Tools:** Maven, Spring Boot, Docker, Jenkins, Git Desktop, WinSCP, Putty, Jboss Server, VS Code, IntelliJ, Sonar, Fortify Scanner, Postman, Eclipse
-- **Programming Paradigms:** Restful Web Services, Design Patterns, Generic Programming
-- **Processes:** Agile, Scrum, Continuous Integration and Continuous Development, Project Management
-- **Operating Systems:** Windows 10, Linux, Mac, Unix, Android
-- **Other:** Microsoft Office (Word, Excel, PPT)
-- **Languages:** English, Hindi
+### Punjabi DJ | Android Application
+- **Repo Link:** [Punjabi Dj](https://github.com/Rhmarwaha/PUNJABI_DJ)
+
+
+### FROG JUMP DOUBLE DICE ROLLER | Android Application
+- **Repo Link:** [Frog Jump](https://github.com/Rhmarwaha/FROG_JUMP_DICE_ROLLER)
+
+## Calculator | IOS Application
+- **Repo Link:** [Calculator Gitlab](https://gitlab.com/rhmarwaha/calculator)
+
+## Mero Vahan | IOS Application
+- **Repo Link:** [Mero Vahan Gitlab](https://gitlab.com/rhmarwaha/mero-vahan)
 
 ---
 
@@ -71,22 +76,19 @@ Any Freelance Work ? Do Reach
 
 ---
 
-## Some Open Source Projects
+## Summary of Skills and Qualifications
 
-### Punjabi DJ | Android Application
-- **Repo Link:** [Punjabi Dj](https://github.com/Rhmarwaha/PUNJABI_DJ)
-
-
-### FROG JUMP DOUBLE DICE ROLLER | Android Application
-- **Repo Link:** [Frog Jump](https://github.com/Rhmarwaha/FROG_JUMP_DICE_ROLLER)
-
-## Calculator | IOS Application
-- **Repo Link:** [Calculator Gitlab](https://gitlab.com/rhmarwaha/calculator)
-
-## Mero Vahan | IOS Application
-- **Repo Link:** [Mero Vahan Gitlab](https://gitlab.com/rhmarwaha/mero-vahan)
+- **Programming Languages:** Java 8, Python (beginner), Swift, C, C++, JavaScript, HTML/CSS
+- **Frameworks/Libraries:** Angular JS, Angular 12, Spring MVC, Android, Junit
+- **Applications Tools:** Maven, Spring Boot, Docker, Jenkins, Git Desktop, WinSCP, Putty, Jboss Server, VS Code, IntelliJ, Sonar, Fortify Scanner, Postman, Eclipse
+- **Programming Paradigms:** Restful Web Services, Design Patterns, Generic Programming
+- **Processes:** Agile, Scrum, Continuous Integration and Continuous Development, Project Management
+- **Operating Systems:** Windows 10, Linux, Mac, Unix, Android
+- **Other:** Microsoft Office (Word, Excel, PPT)
+- **Languages:** English, Hindi
 
 ---
+
 
 ## Volunteer Work / Extra Curricular Activities
 
