@@ -20,9 +20,9 @@ Greetings! I am Rohit Marwaha, a dedicated and self-taught Full Stack Web Develo
 
 🚀 Currently looking for opportunities to showcase my skills and contribute to innovative projects. Excited to collaborate, learn, and bring ideas to life through code.Let's build something remarkable together! 🌐💻
 
-🚀 Expertise: Full Stack Web Development | Android Development
-🌐 Location: Canada 🍁 and India 🇮🇳
- 🎓 Computer Science Grad @ Concordia University, Montréal, Canada
+- 🚀 Expertise: Full Stack Web Development | Android Development
+- 🌐 Location: Canada 🍁 and India 🇮🇳
+- 🎓 Computer Science Grad @ Concordia University, Montréal, Canada
 
 Any Freelance Work ? Do Reach
 - **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com , r_rohit@live.concordia.ca
