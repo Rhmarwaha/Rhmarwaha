@@ -30,7 +30,7 @@ Any Freelance Work ? Do Reach
 
 ---
 
-## Some Open Source Projects
+### Some Open Source Projects
 
 ## Punjabi DJ | Android Application
 - **Repo Link:** [Punjabi Dj](https://github.com/Rhmarwaha/PUNJABI_DJ)
