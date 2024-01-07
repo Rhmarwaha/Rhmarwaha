@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Greetings! I am Rohit Marwaha, a dedicated and self-taught Full Stack Web Developer and a freelance Software Engineer with a global perspective, based in Canada and India. My professional journey is driven by a profound passion for software development, where I thrive on conceptualizing ideas and transforming them into reality through elegant interfaces. I prioritize the user experience, architectural integrity, and code quality in every project I undertake.
 
+🚀 Expertise: Full Stack Web Development
+🌐 Location: Canada 🍁 and India 🇮🇳
 
 Any Freelance Work ? Do Reach
-- **Email:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com
-- **Phone:** (+1)-498-773-5914 , (+91)-783-752-7788
-- **LinkedIn:** [marwaha-rohit](https://www.linkedin.com/in/marwaha-rohit)
-- **Github:** [rhmarwaha](https://github.com/rhmarwaha)
-- **GitLab:** [rhmarwaha](https://gitlab.com/rhmarwaha)
+- **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com
+- **Phone 📞:** (+1)-498-773-5914 , (+91)-783-752-7788
+- **LinkedIn🔗:** [marwaha-rohit](https://www.linkedin.com/in/marwaha-rohit)
+- **Github🐱‍💻 :** [rhmarwaha](https://github.com/rhmarwaha)
+- **GitLab🐱‍💻 :** [rhmarwaha](https://gitlab.com/rhmarwaha)
 
 ---
 
