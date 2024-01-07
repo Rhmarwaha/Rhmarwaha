@@ -22,7 +22,7 @@ Greetings! I am Rohit Marwaha, a dedicated and self-taught Full Stack Web Develo
 🌐 Location: Canada 🍁 and India 🇮🇳
 
 Any Freelance Work ? Do Reach
-- **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com
+- **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com , r_rohit@live.concordia.ca
 - **Phone 📞:** (+1)-498-773-5914 , (+91)-783-752-7788
 - **LinkedIn🔗:** [marwaha-rohit](https://www.linkedin.com/in/marwaha-rohit)
 - **Github🐱‍💻 :** [rhmarwaha](https://github.com/rhmarwaha)
@@ -34,7 +34,6 @@ Any Freelance Work ? Do Reach
 
 ### Punjabi DJ | Android Application
 - **Repo Link:** [Punjabi Dj](https://github.com/Rhmarwaha/PUNJABI_DJ)
-
 
 ### FROG JUMP DOUBLE DICE ROLLER | Android Application
 - **Repo Link:** [Frog Jump](https://github.com/Rhmarwaha/FROG_JUMP_DICE_ROLLER)
