@@ -26,7 +26,7 @@ Greetings! I am Rohit Marwaha, a dedicated and self-taught Full Stack Web Develo
 
 Any Freelance Work ? Do Reach
 - **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com , r_rohit@live.concordia.ca
-- **Phone 📞:** (+1)-498-773-5914 , (+91)-783-752-7788
+- **Phone 📞:** (+1)-438-773-5914 , (+91)-783-752-7788
 - **LinkedIn🔗:** [marwaha-rohit](https://www.linkedin.com/in/marwaha-rohit)
 - **Github🐱‍💻 :** [rhmarwaha](https://github.com/rhmarwaha)
 - **GitLab🐱‍💻 :** [rhmarwaha](https://gitlab.com/rhmarwaha)
@@ -67,7 +67,7 @@ Any Freelance Work ? Do Reach
 
 ## Work Experience
 
-### S💼 ystem Engineer | Tata Consultancy Services Ltd.
+### 💼 System Engineer | Tata Consultancy Services Ltd.
 **September 2023 - April 2025 | Pune, Maharashtra, India**
 
 ### 💼 Assistant System Engineer | Tata Consultancy Services Ltd.
