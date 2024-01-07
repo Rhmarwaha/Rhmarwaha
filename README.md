@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Greetings! I am Rohit Marwaha, a dedicated and self-taught Full Stack Web Developer and a freelance Software Engineer with a global perspective, based in Canada and India. My professional journey is driven by a profound passion for software development, where I thrive on conceptualizing ideas and transforming them into reality through elegant interfaces. I prioritize the user experience, architectural integrity, and code quality in every project I undertake.
 
-🚀 Expertise: Full Stack Web Development
+🚀 Currently looking for opportunities to showcase my skills and contribute to innovative projects. Excited to collaborate, learn, and bring ideas to life through code.Let's build something remarkable together! 🌐💻
+
+🚀 Expertise: Full Stack Web Development | Android Development
 🌐 Location: Canada 🍁 and India 🇮🇳
+ 🎓 Computer Science Grad @ Concordia University, Montréal, Canada
 
 Any Freelance Work ? Do Reach
 - **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com , r_rohit@live.concordia.ca
@@ -51,12 +54,12 @@ Any Freelance Work ? Do Reach
 
 ## Education
 
-### Master of Applied Computer Science (CO-OP) (September 2023 - April 2025)
+### 🎓 Master of Applied Computer Science (CO-OP) (September 2023 - April 2025)
 **Concordia University, Montreal, QC**
 - GPA: 3.65/4.3
 - Member of the Institute for Cooperative Education
 
-### Bachelor of Technology – Computer Science (August 2016 -  July 2020)
+### 🎓 Bachelor of Technology – Computer Science (August 2016 -  July 2020)
 **I.K. Gujral Punjab Technical University, Jalandhar, Punjab, India**
 - CGPA: 8.63/10
 
@@ -64,17 +67,17 @@ Any Freelance Work ? Do Reach
 
 ## Work Experience
 
-### System Engineer | Tata Consultancy Services Ltd.
+### S💼 ystem Engineer | Tata Consultancy Services Ltd.
 **September 2023 - April 2025 | Pune, Maharashtra, India**
 
-### Assistant System Engineer | Tata Consultancy Services Ltd.
+### 💼 Assistant System Engineer | Tata Consultancy Services Ltd.
 **September 2020 - July 2021 | Pune, Maharashtra, India**
 
 ---
 
 ## Internship
 
-### iOS Developer Intern | ClickLabs Ltd.
+### 💼 iOS Developer Intern | ClickLabs Ltd.
 **August 2019 - February 2020 | Panchkula, Haryana, India**
 
 
@@ -82,21 +85,21 @@ Any Freelance Work ? Do Reach
 
 ## Summary of Skills and Qualifications
 
-- **Programming Languages:** Java 8, Python (beginner), Swift, C, C++, JavaScript, HTML/CSS
-- **Frameworks/Libraries:** Angular JS, Angular 12, Spring MVC, Android, Junit
-- **Applications Tools:** Maven, Spring Boot, Docker, Jenkins, Git Desktop, WinSCP, Putty, Jboss Server, VS Code, IntelliJ, Sonar, Fortify Scanner, Postman, Eclipse
-- **Programming Paradigms:** Restful Web Services, Design Patterns, Generic Programming
-- **Processes:** Agile, Scrum, Continuous Integration and Continuous Development, Project Management
-- **Operating Systems:** Windows 10, Linux, Mac, Unix, Android
-- **Other:** Microsoft Office (Word, Excel, PPT)
-- **Languages:** English, Hindi
+- **🚀 Programming Languages:** Java 8, Python (beginner), Swift, C, C++, JavaScript, HTML/CSS
+- **🚀 Frameworks/Libraries:** Angular JS, Angular 12, Spring MVC, Android, Junit
+- **🚀 Applications Tools:** Maven, Spring Boot, Docker, Jenkins, Git Desktop, WinSCP, Putty, Jboss Server, VS Code, IntelliJ, Sonar, Fortify Scanner, Postman, Eclipse
+- **🚀 Programming Paradigms:** Restful Web Services, Design Patterns, Generic Programming
+- **🚀 Processes:** Agile, Scrum, Continuous Integration and Continuous Development, Project Management
+- **🚀 Operating Systems:** Windows 10, Linux, Mac, Unix, Android
+- **🚀 Other:** Microsoft Office (Word, Excel, PPT)
+- **🚀 Languages:** English, Hindi
 
 ---
 
 
 ## Volunteer Work / Extra Curricular Activities
 
-### Technical Assistant | Concordia University, Institute For Co-Operative Education
+### 🤝Technical Assistant | Concordia University, Institute For Co-Operative Education
 **December 2020 - Present | Montreal, QC, Canada**
 - Ensured the technical success of events in the Peer2Peer community.
 - Helped organize information and networking sessions.
