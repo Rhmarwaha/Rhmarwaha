@@ -38,6 +38,9 @@ Any Freelance Work ? Do Reach
 ## FROG JUMP DOUBLE DICE ROLLER | Android Application
 - **Repo Link:** [Frog Jump](https://github.com/Rhmarwaha/FROG_JUMP_DICE_ROLLER)
 
+## Distributed System Design | Couchbase
+- **Repo Link:** [Couchbase](https://github.com/Rhmarwaha/DISTRIBUTED-SYSTEM-DESIGN-COUCHBASE)
+
 ## Calculator | IOS Application
 - **Repo Link:** [Calculator Gitlab](https://gitlab.com/rhmarwaha/calculator)
 
