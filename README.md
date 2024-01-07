@@ -32,10 +32,10 @@ Any Freelance Work ? Do Reach
 
 ## Some Open Source Projects
 
-### Punjabi DJ | Android Application
+## Punjabi DJ | Android Application
 - **Repo Link:** [Punjabi Dj](https://github.com/Rhmarwaha/PUNJABI_DJ)
 
-### FROG JUMP DOUBLE DICE ROLLER | Android Application
+## FROG JUMP DOUBLE DICE ROLLER | Android Application
 - **Repo Link:** [Frog Jump](https://github.com/Rhmarwaha/FROG_JUMP_DICE_ROLLER)
 
 ## Calculator | IOS Application
