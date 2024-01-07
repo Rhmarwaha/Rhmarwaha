@@ -47,12 +47,12 @@ Any Freelance Work ? Do Reach
 
 ## Education
 
-### Master of Applied Computer Science (CO-OP)
+### Master of Applied Computer Science (CO-OP) (September 2023 - April 2025)
 **Concordia University, Montreal, QC**
 - GPA: 3.65/4.3
 - Member of the Institute for Cooperative Education
 
-### Bachelor of Technology – Computer Science
+### Bachelor of Technology – Computer Science (August 2016 -  July 2020)
 **I.K. Gujral Punjab Technical University, Jalandhar, Punjab, India**
 - CGPA: 8.63/10
 
