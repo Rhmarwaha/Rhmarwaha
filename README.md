@@ -20,7 +20,7 @@ Greetings! I am Rohit Marwaha, a dedicated and self-taught Full Stack Web Develo
 
 🚀 Currently looking for opportunities to showcase my skills and contribute to innovative projects. Excited to collaborate, learn, and bring ideas to life through code.Let's build something remarkable together! 🌐💻
 
-- 🚀 Expertise: Full Stack Web Development | Android Development
+- 🚀 Expertise: Full Stack Web Development (Angular and Spring Boot) | Android Development(Java, Gradle)
 - 🌐 Location: Canada 🍁 and India 🇮🇳
 - 🎓 Computer Science Grad @ Concordia University, Montréal, Canada
 
