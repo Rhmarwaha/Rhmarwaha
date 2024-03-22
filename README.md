@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-Greetings! I am Rohit Marwaha, a dedicated and self-taught Full Stack Web Developer and a freelance Software Engineer with a global perspective, based in Canada and India. My professional journey is driven by a profound passion for software development, where I thrive on conceptualizing ideas and transforming them into reality through elegant interfaces. I prioritize the user experience, architectural integrity, and code quality in every project I undertake.
+### 👋 Hello there! 
+I'm Rohit Marwaha, a passionate Full Stack Web Developer and Software Engineer based in Canada and India. With a background in Computer Science and Engineering, I've honed my skills through academic pursuits and professional experiences at leading tech firms like Tata Consultancy Services.
 
-🚀 Currently looking for opportunities to showcase my skills and contribute to innovative projects. Excited to collaborate, learn, and bring ideas to life through code.Let's build something remarkable together! 🌐💻
+💻 My journey in software development is driven by a deep-seated passion for crafting elegant solutions to complex problems. Whether it's building intuitive user interfaces or architecting robust backend systems, I thrive on turning ideas into reality through code.
+
+🚀 Currently, I'm on the lookout for exciting opportunities to contribute to innovative projects and collaborate with like-minded individuals. I'm particularly interested in leveraging my expertise in Java, Spring Boot, Angular, and Android development to tackle new challenges and make a meaningful impact in the tech world.
+
+🌐 Let's connect, collaborate, and build something remarkable together!
 
 - 🚀 Expertise: Full Stack Web Development (Angular and Spring Boot) | Android Development(Java, Gradle)
 - 🌐 Location: Canada 🍁 and India 🇮🇳
 - 🎓 Computer Science Grad @ Concordia University, Montréal, Canada
 
 Any Freelance Work ? Do Reach
-- **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com , r_rohit@live.concordia.ca
+- **Email📧:** rhmarwaha1@gmail.com , marwaha.rh9@gmail.com , rohit.rohit@mail.concordia.ca
 - **Phone 📞:** (+1)-438-773-5914 , (+91)-783-752-7788
 - **LinkedIn🔗:** [marwaha-rohit](https://www.linkedin.com/in/marwaha-rohit)
 - **Github🐱‍💻 :** [rhmarwaha](https://github.com/rhmarwaha)
